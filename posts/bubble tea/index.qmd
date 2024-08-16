@@ -1,0 +1,10 @@
+---
+title: "Bubble tea"
+author: "Sarah"
+date: "2024-08-13"
+categories: [type, taste, price]
+---
+
+![](bbt.jpg)
+
+This is about some bubble tea fun facts
